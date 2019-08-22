@@ -1,5 +1,8 @@
 class OrdersController < ApplicationController
 
+  # uncomment authorize if you want to force login before checkout!
+#   before_filter :authorize
+
   def show
     @order = Order.find(params[:id])
   end
