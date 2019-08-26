@@ -19,7 +19,7 @@ RSpec.describe Product, type: :model do
     category: toy_category
     )}
 
-    describe "Validations" do
+  describe "Validations" do
 
   it "is valid with valid atribs" do
     expect(subject).to be_valid
