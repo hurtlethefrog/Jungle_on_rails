@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2, and Ruby 2.3. Users can register with credentials being validated with active record before being saved. Once signed in they can create a cart as long as items are in stock and checkout using Stripe for payment. Admins are able to create product listings and categories for their products. Multiple integration and unit tests run using Capybara, Poltergeist, and Database Cleaner, and Rspec.
 
 
 ## Setup
@@ -25,3 +25,25 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+### Home Page
+
+![Home Page]()
+
+### Cart
+
+![Cart with items]()
+
+### Admin Basic HTTP Auth
+
+![Basic HTTP Auth]()
+
+### Categories
+
+![Categories]()
+
+### Order Details Screen
+
+![Order Deets]()
