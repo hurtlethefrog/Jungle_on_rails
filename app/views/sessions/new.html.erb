@@ -1,4 +1,7 @@
 <h1>Login</h1>
+<% if @error %>
+<h4 class="alert alert-danger"><%= @error %></h4>
+<% end %>
 <div class="jumbotron">
 <%= form_tag '/login' do %>
 
