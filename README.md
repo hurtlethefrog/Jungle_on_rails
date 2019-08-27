@@ -30,20 +30,24 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ### Home Page
 
-![Home Page]()
+![Home Page](https://github.com/hurtlethefrog/jungle_on_rails/blob/master/docs/Home%20Page.png?raw=true)
 
-### Cart
+### Admin Products Page
 
-![Cart with items]()
+![Admin Page](https://github.com/hurtlethefrog/jungle_on_rails/blob/master/docs/Admin%20Products.png?raw=true)
 
 ### Admin Basic HTTP Auth
 
-![Basic HTTP Auth]()
+![Basic HTTP Auth](https://github.com/hurtlethefrog/jungle_on_rails/blob/master/docs/Basic%20HTTP%20Auth.png?raw=true)
 
 ### Categories
 
-![Categories]()
+![Categories](https://github.com/hurtlethefrog/jungle_on_rails/blob/master/docs/Categories.png?raw=true)
 
 ### Order Details Screen
 
-![Order Deets]()
+![Order Deets](https://github.com/hurtlethefrog/jungle_on_rails/blob/master/docs/Order%20Page.png?raw=true)
+
+### Out of Stock
+
+![Out of Stock](https://github.com/hurtlethefrog/jungle_on_rails/blob/master/docs/Sold%20Out.png?raw=true)
